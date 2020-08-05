@@ -20,7 +20,7 @@ window.addEventListener('load', function () {
 	var help = document.getElementById("helpBox");
 	var helpBtn = document.getElementById("helpButton");
 	var trainingArea = document.getElementById("trainArea");
-	var botTalk = ["Hello! I hope you have a good day!", "I am fine, thanks!", "I am GITBOT, but my creators name is GITSALAH!", "23", "I was created in july, 2020.", "I am not human, I am a Humanrobot LOL."];
+	var botTalk = ["Hello! I hope you have a good day!", "I am fine, thanks!", "I am GITBOT, but my creators name is GITSALAH!", "23", "I was created in july, 2020 in marrakesh.", "I am not human, I am a Humanrobot LOL."];
 	var divArr = [];
 	var delayVar = 0;
 
